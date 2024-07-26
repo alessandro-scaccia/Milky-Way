@@ -1,12 +1,12 @@
 /* Global styles */
 :root {
-    --background: #1e1e2e; 
-    --background-light: #fdebf3;
+    --background: #1e2e1e; 
+    --background-light: #ebfdec;
     --button: #78c2ad;
-    --text: #fdebf3;
-    --text-light: #1e1e2e; 
-    --text-link: #78c2ad;
-    --underline: #375a7f;
+    --text: #ebfdef;
+    --text-light: #1e2e21; 
+    --text-link: #78c297;
+    --underline: #377f44;
     --header: 'Pacifico', cursive;
     --body: 'Josefin Sans', sans-serif; 
 }
@@ -94,7 +94,7 @@ small, li {
 
 /* Badge */
 .badge {
-    background-color: #584966;
+    background-color: #49664c;
     color: var(--text);
     border-radius: 6px;
     font-family: var(--body);
@@ -240,7 +240,7 @@ footer {
     height: 20px;
     width: 20px;
     border-radius: 50%;
-    border: 2px solid #fdebf3;
+    border: 2px solid #ebfdee;
 }
 
 .icon__link:hover {
@@ -275,7 +275,7 @@ footer {
 }
 
 .lost__body {
-    color: #5C5B77;
+    color: #5b7763;
 }
 
 .lost__link {
